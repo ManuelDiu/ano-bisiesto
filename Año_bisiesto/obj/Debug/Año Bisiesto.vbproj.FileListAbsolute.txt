@@ -1,0 +1,13 @@
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.exe.config
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.exe
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.pdb
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.xml
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.frm_bisiesto.resources
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.frm_menu.resources
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.Resources.resources
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año Bisiesto.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año Bisiesto.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.exe
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.xml
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.pdb
+C:\Users\Manuel\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año Bisiesto.vbprojAssemblyReference.cache
